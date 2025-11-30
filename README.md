@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @notyourliver
+- 👋 Hi, I’m @obviously-riv
 - 👀 I’m interested in Computer Science and Mathematics
 - 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on some personal projects
